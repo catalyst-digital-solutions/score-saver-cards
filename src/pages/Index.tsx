@@ -50,7 +50,7 @@ const Index = () => {
   return (
     <main className="min-h-screen">
       {/* SECTION 1: HERO */}
-      <section className="bg-gradient-to-b from-[hsl(var(--mgc-yellow))] via-[hsl(var(--mgc-cream))] to-white py-16 md:py-24 px-6 md:px-8">
+      <section className="bg-gradient-to-br from-white via-amber-50 to-white py-12 md:py-20 lg:py-24 px-6 md:px-8">
         <div className="max-w-6xl mx-auto text-center">
           
           <p className="text-sm uppercase tracking-wide text-[hsl(var(--mgc-dark-gray))] mb-4 font-medium">
